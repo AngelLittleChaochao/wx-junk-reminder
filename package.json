@@ -1,0 +1,21 @@
+{
+  "name": "wx-junk-reminder",
+  "version": "1.0.0",
+  "description": "In group chat, when someone sends unrelated message, give him/her a reminder directly",
+  "main": "index.js",
+  "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "clean": "./bin/clean.sh",
+      "reset": "./bin/stop.sh; ./bin/run.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngelLittleChaochao/wx-junk-reminder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AngelLittleChaochao/wx-junk-reminder/issues"
+  },
+  "homepage": "https://github.com/AngelLittleChaochao/wx-junk-reminder#readme"
+}
